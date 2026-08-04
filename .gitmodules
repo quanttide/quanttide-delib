@@ -1,3 +1,9 @@
 [submodule "apps/qtcloud-delib"]
 	path = apps/qtcloud-delib
 	url = https://github.com/quanttide/qtcloud-delib.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-deliberation-management.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-deliberation-management.git

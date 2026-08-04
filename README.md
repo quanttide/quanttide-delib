@@ -9,8 +9,8 @@
 | `apps/qtcloud-delib` | [qtcloud-delib](https://github.com/quanttide/qtcloud-delib) | 议事云应用 |
 | `packages/toolkit` | [quanttide-delib-toolkit](https://github.com/quanttide/quanttide-delib-toolkit) | 议事开发工具包（待创建） |
 | `data/profile` | [quanttide-profile-of-deliberation](https://github.com/quanttide/quanttide-profile-of-deliberation) | 议事开发档案（待创建） |
-| `docs/gallery` | [quanttide-gallery-of-deliberation](https://github.com/quanttide/quanttide-gallery-of-deliberation) | 议事案例集（待创建） |
-| `docs/handbook` | [quanttide-handbook-of-deliberation](https://github.com/quanttide/quanttide-handbook-of-deliberation) | 议事管理手册（待创建） |
+| `docs/gallery` | [quanttide-gallery-of-deliberation-management](https://github.com/quanttide/quanttide-gallery-of-deliberation-management) | 议事管理案例集 |
+| `docs/handbook` | [quanttide-handbook-of-deliberation-management](https://github.com/quanttide/quanttide-handbook-of-deliberation-management) | 议事管理手册 |
 | `examples/default` | [quanttide-laboratory-of-deliberation](https://github.com/quanttide/quanttide-laboratory-of-deliberation) | 议事开发实验室（待创建） |
 
 ## 许可
