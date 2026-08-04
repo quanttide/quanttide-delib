@@ -18,3 +18,5 @@
 - 新增 `apps/qtcloud-delib` 子模块：议事云应用
 - 新增 `docs/gallery` 子模块：议事管理案例集（quanttide-gallery-of-deliberation-management）
 - 新增 `docs/handbook` 子模块：议事管理手册（quanttide-handbook-of-deliberation-management）
+- 新增 `docs/specification` 子模块：议事管理规格（quanttide-specification-of-deliberation-management）
+- 新增 `data/context` 子模块：议事开发上下文（quanttide-context-of-deliberation-management）
