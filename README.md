@@ -6,7 +6,7 @@
 
 | 路径 | 仓库 | 说明 |
 |---|---|---|
-| `apps/qtcloud-delib` | [qtcloud-delib](https://github.com/quanttide/qtcloud-delib) | 议事云应用（待创建） |
+| `apps/qtcloud-delib` | [qtcloud-delib](https://github.com/quanttide/qtcloud-delib) | 议事云应用 |
 | `packages/toolkit` | [quanttide-delib-toolkit](https://github.com/quanttide/quanttide-delib-toolkit) | 议事开发工具包（待创建） |
 | `data/profile` | [quanttide-profile-of-deliberation](https://github.com/quanttide/quanttide-profile-of-deliberation) | 议事开发档案（待创建） |
 | `docs/gallery` | [quanttide-gallery-of-deliberation](https://github.com/quanttide/quanttide-gallery-of-deliberation) | 议事案例集（待创建） |

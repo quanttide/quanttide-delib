@@ -1,0 +1,3 @@
+[submodule "apps/qtcloud-delib"]
+	path = apps/qtcloud-delib
+	url = https://github.com/quanttide/qtcloud-delib.git

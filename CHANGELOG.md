@@ -15,3 +15,4 @@
 ### Added
 - 初始化项目结构（README、LICENSE、CHANGELOG）
 - 预留目录：`apps/`、`packages/`、`examples/`、`docs/`、`data/`
+- 新增 `apps/qtcloud-delib` 子模块：议事云应用
