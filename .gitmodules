@@ -19,3 +19,6 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-deliberation.git
+[submodule "packages/toolkit"]
+	path = packages/toolkit
+	url = https://github.com/quanttide/quanttide-delib-toolkit.git
