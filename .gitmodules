@@ -18,7 +18,7 @@
 	url = https://github.com/quanttide/quanttide-bylaw-of-deliberation-management.git
 [submodule "data/profile"]
 	path = data/profile
-	url = https://github.com/quanttide/quanttide-profile-of-deliberation.git
+	url = https://github.com/quanttide/quanttide-profile-of-deliberation-management.git
 [submodule "packages/quanttide-delib-toolkit"]
 	path = packages/quanttide-delib-toolkit
 	url = https://github.com/quanttide/quanttide-delib-toolkit.git
