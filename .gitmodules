@@ -22,3 +22,9 @@
 [submodule "packages/quanttide-delib-toolkit"]
 	path = packages/quanttide-delib-toolkit
 	url = https://github.com/quanttide/quanttide-delib-toolkit.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-deliberation-management.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-deliberation-management.git
