@@ -14,7 +14,7 @@
 | `data/context` | [quanttide-context-of-deliberation-management](https://github.com/quanttide/quanttide-context-of-deliberation-management) | 议事开发上下文 |
 | `data/profile` | [quanttide-profile-of-deliberation](https://github.com/quanttide/quanttide-profile-of-deliberation) | 议事开发档案 |
 | `packages/quanttide-delib-toolkit` | [quanttide-delib-toolkit](https://github.com/quanttide/quanttide-delib-toolkit) | 议事开发工具包 |
-| `examples/default` | [quanttide-laboratory-of-deliberation](https://github.com/quanttide/quanttide-laboratory-of-deliberation) | 议事开发实验室（待创建） |
+| `examples/quanttide-delib-lab` | [quanttide-delib-lab](https://github.com/quanttide/quanttide-delib-lab) | 议事开发实验室（待创建） |
 
 ## 许可
 
